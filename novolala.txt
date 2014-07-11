@@ -2,3 +2,4 @@ da bo uvod lepši pišem Welcometo cubot, and not Hubot lp!
 to je novo, bomo videli, če se da commited iv gethub hubot cubot
 ja, res se da, sam je treba pushat:)
 add, commit, push origin master ,(user,geslo) in je uploadano
+to je ob 20:55
