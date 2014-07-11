@@ -1,2 +1,4 @@
 askj
 to je novo, bomo videli, če se da commited iv gethub hubot cubot
+ja, res se da, sam je treba pushat:)
+add, commit, push origin master ,(user,geslo) in je uploadano
