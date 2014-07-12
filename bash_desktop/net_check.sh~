@@ -1,0 +1,5 @@
+#!/bin/bash
+# A more detailed Hello World script
+clear
+python3.4 "net-check.py"
+read redy

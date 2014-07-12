@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_US]=other-driver
+Name[en_US]=template
+Exec=sh /home/tawab/Documents/bashes/tempel/bash_desktop/net_check.sh
+Comment[en_US]=nocomment
+Name=template
+Comment=nocomment
+Icon=other-driver
