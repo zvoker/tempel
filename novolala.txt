@@ -1,3 +1,6 @@
+pozdravljen Git-ovec!
+Ta file je namenjen experimentiranju z gitom. feel free to erase it
+
 da bo uvod lepši pišem Welcometo cubot, and not Hubot lp!
 to je novo, bomo videli, če se da commited iv gethub hubot cubot
 ja, res se da, sam je treba pushat:)
